@@ -33,5 +33,4 @@ bool backspaceCompare(string S, string T) {
           s2.pop();
       }
       return true;
-
   }
