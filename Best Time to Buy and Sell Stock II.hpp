@@ -5,4 +5,5 @@ int maxProfit(vector<int>& prices) {
         ans += max(0,prices[i]-prices[i-1]);
     }
     return ans;
+    
 }
