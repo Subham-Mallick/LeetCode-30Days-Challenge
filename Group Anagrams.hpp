@@ -10,5 +10,4 @@ vector<vector<string>> groupAnagrams(vector<string>& strs) {
           anagrams.push_back(ele.second);
       }
       return anagrams;
-
   }
