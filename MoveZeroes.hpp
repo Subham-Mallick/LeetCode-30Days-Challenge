@@ -7,5 +7,4 @@ void moveZeroes(vector<int>& nums) {
     
     while(c<nums.size())
         nums[c++] = 0; 
-    
 }
