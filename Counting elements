@@ -9,5 +9,4 @@ int countElements(vector<int>& arr) {
           }
       }
       return ans;
-
   }
