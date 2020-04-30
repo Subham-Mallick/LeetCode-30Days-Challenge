@@ -18,4 +18,5 @@ bool isHappy(int n) {
     } while(slow != fast);
     if (slow == 1) return 1;
     else return 0;
+    
 }
