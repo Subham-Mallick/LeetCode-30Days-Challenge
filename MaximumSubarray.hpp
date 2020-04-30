@@ -8,5 +8,4 @@ int maxSubArray(vector<int>& nums) {
         maxSoFar = max(currMax,maxSoFar);
     }
     return maxSoFar;
-
 }
